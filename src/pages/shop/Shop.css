@@ -1,0 +1,13 @@
+.shop {
+  min-height: 100vh;
+  padding-block: 2rem;
+  padding-inline: 1rem;
+  background: var(--bg-light);
+}
+.shop__title {
+  font-size: 4rem;
+}
+.shop__products {
+  display: flex;
+  gap: 2rem;
+}

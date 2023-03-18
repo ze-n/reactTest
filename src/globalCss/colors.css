@@ -1,0 +1,9 @@
+body {
+  --clr-dark-800: rgb(14, 14, 14);
+  --clr-dark-100: rgb(245, 245, 245);
+
+  --bg-dark: var(--clr-dark-800);
+  --bg-light: var(--clr-dark-100);
+  --text-dark: var(--clr-dark-800);
+  --text-light: var(--clr-dark-100);
+}

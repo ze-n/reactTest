@@ -1,0 +1,17 @@
+.product {
+  background-color: rgb(237, 237, 237);
+  height: 20rem;
+  overflow: hidden;
+  padding: 1rem;
+}
+.product__image {
+  height: 15rem;
+  width: 25rem;
+  object-fit: contain;
+  object-position: center center;
+}
+.product__name {
+  font-size: 1.3rem;
+  color: var(--text-dark);
+  font-weight: bolder;
+}
